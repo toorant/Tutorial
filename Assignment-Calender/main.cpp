@@ -1,14 +1,6 @@
 #include <iostream>
 #include <string>
 
-constexpr int Monday{1};
-constexpr int Tuesday{2};
-constexpr int Wednesday{3};
-constexpr int Thursday{4};
-constexpr int Friday{5};
-constexpr int Saturday{6};
-constexpr int Sunday{7};
-
 int main()
 {
 
